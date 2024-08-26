@@ -4,6 +4,9 @@ Hetkel on siin täiesti mitte toimiv kood. Idee kohaselt peaks programm lugema S
 
 Seaded:
 Valisin projekti alustades seadmeks B-WB1M-WPAN1 arendusplaadi
+
 Lülitasin välja I2C ja ADC, kuna neid pole vaja
+
 SPI sätetes "Prescaler (for Baud Rate) muutsin neljaks
+
 Ülejäänu kõik default
